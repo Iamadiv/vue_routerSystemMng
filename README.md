@@ -1,6 +1,6 @@
 # my-vue
 
-> 无线路由网络管理系统
+> router system managerment
 
 ## Build Setup
 
